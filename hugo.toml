@@ -1,0 +1,72 @@
+baseURL = "https://sudipto.github.io/"
+languageCode = "en-us"
+title = "Sudipto Rokshit"
+theme = "PaperMod"
+publishDir = "public"
+
+[params]
+  env = "production"
+  description = "Notes on software, automation, and building things by Sudipto Rokshit."
+  keywords = ["Sudipto Rokshit", "software", "automation", "AI", "blog", "hugo", "github pages"]
+  mainSections = ["posts"]
+  defaultTheme = "auto"
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowAllPagesInArchive = false
+  disableSpecial1stPost = true
+
+  [params.footer]
+    text = "Built with Hugo on GitHub Pages."
+    hideCopyright = false
+
+  [params.homeInfoParams]
+    title = "Hey, I'm Sudipto."
+    AlignSocialIconsTo = "right"
+    content = """
+I build software, automate the boring parts of life, and occasionally write about it.
+This is my quiet corner of the internet.
+"""
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/swiftarrow11"
+    title = "GitHub"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:swiftarrow11@gmail.com"
+    title = "Email"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+    title = "RSS"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Archive"
+  url = "/archive/"
+  weight = 2
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 3
+
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 4
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
