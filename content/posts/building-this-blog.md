@@ -4,7 +4,7 @@ date: 2026-10-16
 description: "How I set up a fast, free, static blog as plain Markdown in a Git repo — the stack and the workflow."
 tags: ["hugo", "github-actions", "static-site", "tutorial"]
 showToc: true
-author: Sudipto Rokshit
+author: Sudipto Rakshit
 ---
 
 I wanted a blog that felt like writing in a text file and nothing more. I was

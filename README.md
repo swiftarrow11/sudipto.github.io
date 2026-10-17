@@ -1,4 +1,4 @@
-# Sudipto Rokshit's personal blog
+# Sudipto Rakshit's personal blog
 
 A fast, static, serverless personal blog. Plain Markdown in Git → built by
 [Hugo](https://gohugo.io/) → published by GitHub Actions → served free on
