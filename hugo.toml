@@ -1,13 +1,13 @@
 baseURL = "https://swiftarrow11.github.io/"
 languageCode = "en-us"
-title = "Sudipto Rokshit"
+title = "Sudipto Rakshit"
 theme = "PaperMod"
 publishDir = "public"
 
 [params]
   env = "production"
-  description = "Notes on software, automation, and building things by Sudipto Rokshit."
-  keywords = ["Sudipto Rokshit", "software", "automation", "AI", "blog", "hugo", "github pages"]
+  description = "Notes on software, automation, and building things by Sudipto Rakshit."
+  keywords = ["Sudipto Rakshit", "software", "automation", "AI", "blog", "hugo", "github pages"]
   mainSections = ["posts"]
   defaultTheme = "auto"
   ShowCodeCopyButtons = true

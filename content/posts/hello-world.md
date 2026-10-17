@@ -4,7 +4,7 @@ date: 2026-10-16
 description: "Why this blog exists, and what I plan to write about."
 tags: ["meta", "intro"]
 showToc: false
-author: Sudipto Rokshit
+author: Sudipto Rakshit
 ---
 
 I've put off starting a blog for years. The excuses were always the same:
