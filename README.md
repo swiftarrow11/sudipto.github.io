@@ -20,8 +20,8 @@ Inspired by James Montemagno's
 ## Running locally
 
 ```bash
-git clone --recurse-submodules https://github.com/swiftarrow11/sudipto.github.io.git
-cd sudipto.github.io
+git clone --recurse-submodules https://github.com/swiftarrow11/swiftarrow11.github.io.git
+cd swiftarrow11.github.io
 hugo serve
 # → http://localhost:1313
 ```
