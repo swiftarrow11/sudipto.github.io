@@ -27,7 +27,7 @@ Here's the stack, start to finish.
 ## The repo layout
 
 ```text
-sudipto.github.io/
+swiftarrow11.github.io/
 ├── content/
 │   ├── posts/        # your blog posts, as .md files
 │   ├── about.md
