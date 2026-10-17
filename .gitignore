@@ -1,0 +1,14 @@
+# Build output
+/public/
+
+# Hugo
+/resources/_gen/
+/.cache/
+/.hugo_build.lock
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
