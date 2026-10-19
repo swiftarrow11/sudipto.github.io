@@ -4,6 +4,9 @@ title = "Sudipto Rakshit"
 theme = "PaperMod"
 publishDir = "public"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   env = "production"
   description = "Notes on software, automation, and building things by Sudipto Rakshit."
